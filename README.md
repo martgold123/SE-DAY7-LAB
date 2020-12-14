@@ -1,5 +1,6 @@
 # SE-DAY7-LAB-HaQuocViet-18001084
 PROPERTY MANAGEMENT SYSTEM
+
 1.Mục tiêu: Xây dựng app quản lý khách sạn dành cho quản lý, nhân viên bán hàng,lễ tân. 
   Thiết bị : Máy tính cá nhân, Tablet.
 2.Chức năng :
