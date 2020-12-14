@@ -1,11 +1,11 @@
 # SE05-DAY7-LAB-HaQuocViet-18001084
 PROPERTY MANAGEMENT SYSTEM
 
-1.Mục tiêu: Xây dựng app quản lý khách sạn dành cho quản lý, nhân viên bán hàng,lễ tân. 
+  1.Mục tiêu: Xây dựng app quản lý khách sạn dành cho quản lý, nhân viên bán hàng,lễ tân. 
 
   Thiết bị : Máy tính cá nhân, Tablet.
   
-2.Chức năng :
+  2.Chức năng :
 
   + Khách hàng : Phần mềm có thể đặt-hủy phòng và nhận phòng, thực hiện các thanh toán , giao dịch online cho khách hàng.
   + Nhân viên Lễ Tân ( Receptionist ) : Tìm phòng trống theo yêu cầu trực tiếp của khách, Check-in cho khách đã đặt phòng , Check-out cho khách, In hóa đơn cho khách.
